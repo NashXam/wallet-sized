@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletSized", "WalletSized\WalletSized.csproj", "{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}"
+EndProject
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "WalletSized.Core", "WalletSized.Core\WalletSized.Core.fsproj", "{53AFDF04-58BC-4F73-80CF-E23A8CC92719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Release|iPhone.Build.0 = Release|iPhone
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{25CBCB8F-0F42-4E18-BC8E-0890E2E28B7D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Release|iPhone.Build.0 = Release|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{53AFDF04-58BC-4F73-80CF-E23A8CC92719}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WalletSized\WalletSized.csproj
+	EndGlobalSection
+EndGlobal
