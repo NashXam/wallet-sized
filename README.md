@@ -19,6 +19,7 @@ Create your solution below your folder. Push as you go. Enjoy!
 Specs
 -----
 
+````
 GIVEN I have just installed the application
 WHEN I open the application
 THEN I will be presented the "Main Screen" with 10 empty panels
@@ -38,3 +39,4 @@ GIVEN I tell a story at a bar about building an animatronic typing monkey
     AND people say "Dude! I'd love to see that!"
 WHEN I open the wallet-sized app and click on the "Monkey Business" panel
 THEN the application will launch the web page where my Typing Monkey video is hosted
+````
