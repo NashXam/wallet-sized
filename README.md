@@ -3,7 +3,7 @@ wallet-sized
 
 A Nashville Xamarin User Grouop coding dojo excercise
 
-Write a Xamarin app named "Wallet Sized". The app has ten tiles each of which can store a handy bit of information (a note, a URL, or a picture).. T
+Write a Xamarin app named "Wallet Sized". The app has ten tiles each of which can store a handy bit of information (a note, a URL, or a picture).
 
 How to contribute
 -----------------
