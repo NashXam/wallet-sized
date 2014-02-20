@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/One"
+        android:text="One"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/Two"
+        android:text="Two"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/One" />
+    <Button
+        android:id="@+id/Three"
+        android:text="Three"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Two" />
+    <Button
+        android:id="@+id/Four"
+        android:text="Four"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Three" />
+    <Button
+        android:id="@+id/Five"
+        android:text="Five"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Four" />
+    <Button
+        android:id="@+id/Six"
+        android:text="Six"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Five" />
+    <Button
+        android:id="@+id/Seven"
+        android:text="Seven"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Six" />
+    <Button
+        android:id="@+id/Eight"
+        android:text="Eight"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Seven" />
+    <Button
+        android:id="@+id/Nine"
+        android:text="Nine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Eight" />
+    <Button
+        android:id="@+id/Ten"
+        android:text="Ten"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Nine" />
+</RelativeLayout>
